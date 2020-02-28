@@ -29,10 +29,6 @@
 
 请大家使用时根据示例代码来，有bug直接提交 `issue`；**提供付费技术支持**。
 
-<div style="margin:0 auto;">
-    <p align="center" style="margin:0px;"><img width="60%" src="https://dayutalk.cn/img/pub-qr.jpeg?v=123"></p>
-    <p align="center" style="margin:0px;"><img width="60%" src="https://dayutalk.cn/img/pay-qr.jpeg"></p>
-</div>
 
 
 # 目录
@@ -93,7 +89,7 @@
 直接在命令行下安装：
 
 ```bash
-composer require "riverslei/payment:*"
+composer require "mcgd/payment:*"
 ```
 
 通过项目配置文件方式安装：
